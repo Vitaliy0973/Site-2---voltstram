@@ -902,8 +902,7 @@ main {
 .footer__wrap {
   position: relative;
   width: 510px;
-  background-color: #fff;
-  background: #FDFDFD;
+  background-color: #FDFDFD;
   -webkit-box-shadow: 0px 10px 20px rgba(116, 18, 18, 0.05);
           box-shadow: 0px 10px 20px rgba(116, 18, 18, 0.05);
   border-radius: 6px;
@@ -1569,7 +1568,7 @@ main {
   }
 
   .footer {
-    background-color: #fff;
+    background-color: #FDFDFD;
     padding-top: 0;
     padding-bottom: 0;
   }
