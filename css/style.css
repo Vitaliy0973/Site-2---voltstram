@@ -1576,6 +1576,9 @@ main {
 
   .footer__wrap {
     width: 100%;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+    border-radius: 0;
     padding: 0;
     padding-top: 38px;
     padding-bottom: 43px;
