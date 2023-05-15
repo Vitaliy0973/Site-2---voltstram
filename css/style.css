@@ -1736,6 +1736,7 @@ main {
     -o-transition: transform 0.3s ease-in-out 0s;
     transition: transform 0.3s ease-in-out 0s;
     transition: transform 0.3s ease-in-out 0s, -webkit-transform 0.3s ease-in-out 0s;
+    z-index: 100;
   }
 
   .header.open .menu {
